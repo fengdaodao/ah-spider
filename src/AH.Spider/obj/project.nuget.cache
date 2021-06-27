@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tMwMhrLYN+q064SuGgQYOAunpk8qfWyTm4rZPs7aDU1zwfXnyDQjHr+0P4BXZDC+Gf+/0df5lJIz2zqaAu4pA==",
+  "success": true,
+  "projectFilePath": "F:\\xSourceCode\\private\\dotnet\\ah-spider\\src\\AH.Spider\\AH.Spider.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13170\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512"
+  ],
+  "logs": []
+}

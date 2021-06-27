@@ -1,0 +1,12 @@
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\bin\Debug\net5.0\AH.Spider.deps.json
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\bin\Debug\net5.0\AH.Spider.dll
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\bin\Debug\net5.0\ref\AH.Spider.dll
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\bin\Debug\net5.0\AH.Spider.pdb
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.csproj.AssemblyReference.cache
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.GeneratedMSBuildEditorConfig.editorconfig
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.AssemblyInfoInputs.cache
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.AssemblyInfo.cs
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.csproj.CoreCompileInputs.cache
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.dll
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\ref\AH.Spider.dll
+F:\xSourceCode\private\dotnet\ah-spider\src\AH.Spider\obj\Debug\net5.0\AH.Spider.pdb
